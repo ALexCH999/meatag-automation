@@ -1,0 +1,15 @@
+# Исходные сырые данные (по условию ТЗ в репозиторий не включаются)
+sales.csv
+Данные для тестового задания.csv
+
+# Python и виртуальное окружение
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-version
+
+# Системные файлы macOS / IDE
+.DS_Store
+.idea/
+.vscode/
